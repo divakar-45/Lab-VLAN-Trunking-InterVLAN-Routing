@@ -1,4 +1,4 @@
-# Cisco Packet Tracer Lab 09 – VLANs, Trunking & Inter-VLAN Routing
+# Cisco Packet Tracer Lab  – VLANs, Trunking & Inter-VLAN Routing
 
 ## Project Overview
 
